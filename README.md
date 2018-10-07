@@ -1,6 +1,7 @@
-<<<<<<< HEAD
-# Scrapnewzf
+
+# 
+一整个网站
 =======
-# ppp
+# 使用tomcat＋本源码即可
 正方教务系统爬虫新版
->>>>>>> 6f429a848b0bc56fe8bfeff669d604f0ab27a51b
+
